@@ -1,1 +1,1 @@
-Learnig Git Commands
+Learning Git and GitHub
